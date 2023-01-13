@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EFCore.WebAPI
+build_property.ProjectDir = C:\Entity Framework Core + Asp.NET Core Web API + SQL Server\EFCore.WebAPI\EFCore.WebAPI\
